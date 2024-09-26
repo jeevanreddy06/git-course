@@ -1,3 +1,5 @@
 hello world 222222S
 take input from user
 and the values
+
+submit data to the database
