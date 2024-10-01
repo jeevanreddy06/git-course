@@ -3,3 +3,4 @@ take input from user
 and the values
 
 submit data to the database
+ create an avatar for user 
